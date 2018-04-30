@@ -1,0 +1,25 @@
+{
+  "name": "gre_trainer_bot",
+  "version": "1.0.0",
+  "description": "test your skills",
+  "scripts": {
+    "start": " node ./start.js "
+  },
+  "keywords": [
+    "GRE"
+  ],
+  "author": "HM15",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.12",
+    "node-rest-client": "^3.1.0",
+    "nodemon": "^1.15.1",
+    "request": "^2.83.0",
+    "sendotp": "^1.2.8",
+    "vue": "^2.5.16"
+  }
+}

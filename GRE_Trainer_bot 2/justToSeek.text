@@ -1,0 +1,8 @@
+#make word_list work properly in user Schema
+//#set difficulty
+//#schema for user statistics
+#using map or any function to prevent previous questions from repeating
+//#created at in users (updating every time)
+//#store users login time for every time the user update
+
+//https://www.techiediaries.com/build-messenger-bot-nodejs/
